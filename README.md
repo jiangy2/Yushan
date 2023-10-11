@@ -2,7 +2,7 @@
 
 * I’m interested in Deep Learning and Data Mining research for Multivariate Time Series and Spatial-Temporal Data.
 * I am a Ph.D. student in Computer Science at Univeristy of Connecticut, advised by Dr. Dongjin Song.
-* You can reach me at [yushan.jiang@uconn.edu](yushan.jiang@uconn.edu)
+* You can reach me via [yushan.jiang@uconn.edu](yushan.jiang@uconn.edu)
 
 
 <a href="https://www.linkedin.com/in/yushan-jiang-4b54551a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://scholar.google.com/citations?user=7zOFNbIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a> 
